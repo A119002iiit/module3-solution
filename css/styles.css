@@ -61,13 +61,11 @@ background: #E7E7E7;
 /*	margin-left: 10%;
 	margin-right: 10%;*/
 }
-@media (max-width: 767px){
-	border: 0;
-	margin: 10%
-	width:100%
 
-}
 .row{
     margin-right: 10px;
     margin-left: 10px;
+}
+#collapsable-nav{
+	background-color: brown;
 }
